@@ -12,5 +12,5 @@ By studying the topics mentioned above we can develop a model to predict the pri
 -----------------------------------------------------------------------------------------------------------------------------------
 With reference to the plots uploaded, They provide information regading the prevalence of disability as per the census data and the fall in cost of automation over the years.
 
-Plot 1 _ Publish : Prevalence of disability for selected age groups 2005 and 2010
+Plot 1 _ Publish : Prevalence of disability for selected age groups 2005 and 2010 \n
 Plot 2 _ Publish : Change in cost of automation with respect to robots
