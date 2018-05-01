@@ -8,3 +8,9 @@ As explained by UNICEF disability is complex, dynamic, multidimensional and cont
 -	Change in cost towards production of components
 
 By studying the topics mentioned above we can develop a model to predict the price on what an average differently abled human will be paying for technology which would change his/her future.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+With reference to the plots uploaded, They provide information regading the prevalence of disability as per the census data and the fall in cost of automation over the years.
+
+Plot 1 _ Publish : Prevalence of disability for selected age groups 2005 and 2010
+Plot 2 _ Publish : Change in cost of automation with respect to robots
